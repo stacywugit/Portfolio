@@ -1,0 +1,66 @@
+# depslib dependency file v1.0
+1371990543 source:c:\users\user\desktop\finalproject\main.cpp
+	<allegro.h>
+	<stdio.h>
+	"game.h"
+	"player.h"
+
+1371994099 source:c:\users\user\desktop\finalproject\game.cpp
+	<allegro.h>
+	<stdio.h>
+	<stdlib.h>
+	"game.h"
+	"player.h"
+	"building.h"
+	"war.h"
+	<time.h>
+
+1371990543 c:\users\user\desktop\finalproject\game.h
+	"player.h"
+	"building.h"
+
+1369937059 source:c:\users\user\desktop\finalproject\player.cpp
+	"player.h"
+
+1371994481 c:\users\user\desktop\finalproject\player.h
+
+1370750725 source:c:\users\user\desktop\finalproject\build.cpp
+	"biuld.h"
+	"soldier.h"
+
+1370870722 c:\users\user\desktop\finalproject\biuld.h
+	<allegro.h>
+	"soldier.h"
+
+1371990594 source:c:\users\user\desktop\finalproject\building.cpp
+	"building.h"
+	"biuld.h"
+	<allegro.h>
+	<stdio.h>
+
+1371990619 c:\users\user\desktop\finalproject\building.h
+	"biuld.h"
+	"player.h"
+
+1370750141 c:\users\user\desktop\finalproject\soldier.h
+	<allegro.h>
+	"player.h"
+
+1370750932 source:c:\users\user\desktop\finalproject\soldier.cpp
+	<allegro.h>
+	<stdio.h>
+	"soldier.h"
+
+1371973603 c:\users\user\desktop\finalproject\war.h
+	<allegro.h>
+	"player.h"
+	"soldier.h"
+	"building.h"
+
+1371994083 source:c:\users\user\desktop\finalproject\war.cpp
+	"war.h"
+	"player.h"
+	<allegro.h>
+	"building.h"
+	"biuld.h"
+
