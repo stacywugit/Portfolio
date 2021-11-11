@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 10 12:47:57 2020
 
-@author: 60747045S
+@author: stacy_w
 """
 from bs4 import BeautifulSoup
 from urllib.request import urlopen, Request
