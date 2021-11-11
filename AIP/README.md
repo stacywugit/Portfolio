@@ -16,3 +16,9 @@ training data from https://github.com/rodrigoberriel/streetview-crosswalk-classi
 use Tensorflow、Python、OpenCV and [YOLO](https://pjreddie.com/darknet/yolo/)
 
 result 1:
+
+![image](https://github.com/stacywugit/Portfolio/blob/main/AIP/imgs/crosswalk_detection_1.png)
+
+result 2:
+
+![image](https://github.com/stacywugit/Portfolio/blob/main/AIP/imgs/crosswalk_detection_2.png)
