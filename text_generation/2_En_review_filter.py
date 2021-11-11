@@ -2,7 +2,7 @@
 """
 Created on Mon Mar 15 20:17:14 2021
 
-@author: 60747045S
+@author: stacy_w
 """
 import csv
 from langdetect import detect
