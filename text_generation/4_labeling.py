@@ -2,7 +2,7 @@
 """
 Created on Sun Apr 11 21:02:36 2021
 
-@author: 60747045S
+@author: stacy_w
 """
 import csv
 from nltk.stem import PorterStemmer
