@@ -504,7 +504,7 @@ class Window(tk.Frame):
 
 root = tk.Tk()
 root.geometry("%dx%d" % (695, 615))
-root.title("AIP 60747045S")
+root.title("AIP")
 app = Window(root)
 app.pack(fill=tk.BOTH, expand=1)
 root.mainloop()
