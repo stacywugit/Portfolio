@@ -13,6 +13,6 @@ result 2:
 # in crosswalk detection
 training data from https://github.com/rodrigoberriel/streetview-crosswalk-classification/tree/master/datasets
 
-use Tensorflow、Python、OpenCV and YOLO
+use Tensorflow、Python、OpenCV and [YOLO](https://pjreddie.com/darknet/yolo/)
 
 result 1:
