@@ -105,7 +105,7 @@ class Window(tk.Frame):
 
 root = tk.Tk()
 root.geometry("%dx%d" % (710, 400))
-root.title("FP 60747045S")
+root.title("FP")
 app = Window(root)
 app.pack(fill=tk.BOTH, expand=1)
 root.mainloop()
