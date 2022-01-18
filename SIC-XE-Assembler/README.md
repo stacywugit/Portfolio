@@ -3,4 +3,4 @@
 使用語言:C++
 
 compile方法:
-![image](https://github.com/stacywugit/Portfolio/blob/main/AIP/imgs/edge_detection_1.png)
+![image](https://github.com/stacywugit/Portfolio/blob/main/SIC-XE-Assembler/how_to_compile.png)
